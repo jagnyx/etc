@@ -1,0 +1,166 @@
+# ncmpcpp/config
+#
+### Directories ###
+ncmpcpp_directory = ~/.ncmpcpp
+lyrics_directory  = ~/.lyrics
+
+### MPD Connection ###
+mpd_music_dir = ~/music
+
+### Visualizer ###
+# You should have an FIFO audio output on your mpd config
+# in order to use the visualizer:
+#   audio_output {
+#     type   "fifo"
+#     name   "FIFO Output"
+#     path   "/tmp/mpd.fifo"
+#     format "44100:16:2"
+#   }
+#
+visualizer_fifo_path     = /tmp/mpd.fifo
+visualizer_output_name   = FIFO Output
+visualizer_in_stereo     = yes
+visualizer_sync_interval = 30
+visualizer_type          = spectrum
+visualizer_look          = "●▮"
+
+### Delays ###
+playlist_disable_highlight_delay = 2
+message_delay_time = 1
+
+### Song Formats ###
+# Valid Formats:
+#   %l - length
+#   %f - filename
+#   %D - directory
+#   %a - artist
+#   %A - album artist
+#   %t - title
+#   %b - album
+#   %y - date
+#   %n - track number (01/12 -> 01)
+#   %N - full track info (01/12 -> 01/12)
+#   %g - genre
+#   %c - composer
+#   %p - performer
+#   %d - disc
+#   %C - comment
+#   %P - priority
+#   $R - begin right alignment
+#
+# Placing formats enclosed in {} will hide them if there's nothing
+# on that format. {%a - %t} won't show anything if the artist or the
+# title is missing.
+#
+# You may also use | between pairs of {} to define alternative formats:
+# {%a - %t}|{%f} will show the filename if the artist or title are
+# missing.
+#
+# You can set the max length on a format by specifying it like '%20b'.
+#
+# Formats without braces get enclosed inside a pair automatically.
+#
+# Valid Colors:
+#   $0 - default window color (discards all other colors)
+#   $1 - black
+#   $2 - red
+#   $3 - green
+#   $4 - yellow
+#   $5 - blue
+#   $6 - magenta
+#   $7 - cyan
+#   $8 - white
+#   $9 - end of current color
+#
+# You can define colors by surrounding formats: '$2%b$9'
+# You can also nest colors.
+#
+# Valid Attributes:
+#   $b - bold text
+#   $u - underline text
+#   $r - reverse colors
+#   $a - use alternative character set
+#
+# To end an attribute, add a slash before the letter: '$b%t$/b'
+#
+song_list_format = {[%l] }{{$7%a$9 - }{$3%t$9}}|{%f}$R{#%n - }{$4%b$9}
+song_status_format = {$3%a$9 // }{$3%t$9}{ //{ #%n from} $3%b$9}
+
+alternative_header_first_line_format = $b{%t}|{%f}$/b
+alternative_header_second_line_format = {$3$b%a$/b$9}{ ::{ $4$b#%N$/b$9 from} $7$b%b$/b$9}
+
+### Columns ###
+# Syntax: (width)[color]{tag} (width)[color]{tag} (width)[color]{tag}...
+#
+# Width is in %, but you can add a 'f' at the end to turn it into a fixed
+# amount in terminal columns.
+#
+# Color is optional, use [] to use the default terminal color.
+#
+# After the tag, you can add these optional characters:
+#   r - column will be right aligned
+#   E - if tag is empty, do not display empty tag marker
+#
+# You can add a custom name to your columns: '{l:Time}'
+# You can define alternate tags to use: '{a|c|p}' will attempt to display
+# artist first, then composer, then performer.
+#
+song_columns_list_format = (5)[]{l} (15)[cyan]{a} (50)[green]{t|f} (6f)[yellow]{NE} (20)[yellow]{b}
+
+### Display Modes ###
+playlist_display_mode        = columns
+browser_display_mode         = columns
+search_engine_display_mode   = columns
+playlist_editor_display_mode = columns
+
+### Progress bar ###
+progressbar_look     = ═>
+progressbar_boldness = yes
+
+### Screens ###
+screen_switcher_mode = playlist, media_library
+startup_screen = media_library
+
+### Others ###
+user_interface = alternative
+
+media_library_primary_tag = album_artist
+
+autocenter_mode = yes
+centered_cursor = yes
+
+header_visibility    = no
+statusbar_visibility = yes
+titles_visibility    = yes
+
+external_editor = vim
+fetch_lyrics_for_current_song_in_background = yes
+ignore_leading_the = yes
+
+### Colors ###
+# Default, black, red, green, yellow, blue, magenta, cyan, white
+colors_enabled = yes
+
+main_window_color           = default
+main_window_highlight_color = white
+active_column_color         = green
+header_window_color         = default
+volume_color                = default
+state_line_color            = default
+state_flags_color           = default
+
+progressbar_color         = black
+progressbar_elapsed_color = green
+statusbar_color           = default
+
+window_border_color  = green
+active_window_border = red
+
+color1 = white
+color2 = green
+
+visualizer_color = default
+
+alternative_ui_separator_color = black
+
+empty_tag_color = yellow
