@@ -1,0 +1,97 @@
+! Xresource file
+URxvt*depth: 32
+URxvt*geometry: 100x55
+!URxvt.borderColor: #111113
+URxvt.internalBorder: 10
+!URxvt.cursorUnderline: true
+URxvt.cursorBlink: true
+!URxvt*.transparent: true
+!URxvt*.shading: 15
+
+! -- scrollbar
+URxvt.scrollstyle: plain
+URxvt.scrollBar: false
+URxvt*scrollTtyOuput: false
+URxvt*scrollWidthBuffer: true
+!URxvt*scrollTtyKeypress: true
+
+! -- login shell
+URxvt*loginShell: false
+
+! -- font
+URxvt.font: xft:Ubuntu Mono derivative Powerline:size=10:antialias=true
+!URxvt.font: xft:Fantasque Sans Mono:size=10:antialias=true
+!URxvt.font: xft:Roboto Mono:size=10:antialias=true
+!URxvt.font: xft:Liberation Mono for Powerline:size=10:antialias=true
+!URxvt.font: xft:Inconsolata for Powerline:size=10:antialias=true
+!URxvt.font: xft:Inconsolata:size=10:antialias=true
+!URxvt.font: xft:Terminess Powerline:pixelsize=12
+!URxvt.font: xft:PragmataPro:size=10
+!URxvt.font: xft:Boxxy:pixelsize=12
+URxvt.boldFont:
+URxvt*letterSpace: -1
+URxvt*lineSpace: -2
+
+
+Xcursor.size: 16
+
+! special
+*.foreground:   #948e48
+*.background:   #201602
+*.cursorColor:  #948e48
+
+! black
+*.color0:       #201602
+*.color8:       #6c6823
+
+! red
+*.color1:       #c35359
+*.color9:       #c35359
+
+! green
+*.color2:       #18974e
+*.color10:      #18974e
+
+! yellow
+*.color3:       #a88339
+*.color11:      #a88339
+
+! blue
+*.color4:       #477ca1
+*.color12:      #477ca1
+
+! magenta
+*.color5:       #8868b3
+*.color13:      #8868b3
+
+! cyan
+*.color6:       #75a738
+*.color14:      #75a738
+
+! white
+*.color7:       #948e48
+*.color15:      #faf0a5
+
+! -- perl
+URxvt.perl-ext-common: default,clipboard,vtwheel,matcher
+URxvt.keysym.Mod4-v: perl:clipboard:paste
+URxvt.url-launcher: /usr/bin/firefox
+URxvt.matcher.button: 1
+!URxvt.colorUL: #9472ec
+
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007
+
+! made w/ http://terminal.sexy/
+
+!=======
+
+Xft.autohint: false
+xft.dpi: 96 
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+ntialias: true
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+
