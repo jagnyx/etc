@@ -1,0 +1,11 @@
+hi CmdLine>* -append font-family: Fira Sans ; font-size: 10pt;
+hi CompDesc -append font-family: Fira Sans ; font-size: 10pt;
+hi CompTitle -append font-family: Fira Sans ; font-size: 10pt;
+hi CompItem>* -append font-family: Fira Sans ; font-size: 10pt;
+hi StatusLine -append font-family: Fira Sans ; font-size: 10pt;
+hi InfoMsg -append font-family: Fira Sans ; font-size: 10pt;
+hi ModeMsg -append font-family: Fira Sans ; font-size: 10pt;
+hi WarningMsg -append font-family: Fira Sans ; font-size: 10pt;
+hi MoreMsg -append font-family: Fira Sans ; font-size: 10pt;
+hi Title -append font-family: Fira Sans ; font-size: 10pt;
+hi Help -append font-family: Fira Sans ; font-size: 10pt;

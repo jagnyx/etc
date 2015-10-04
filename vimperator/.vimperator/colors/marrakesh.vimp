@@ -1,0 +1,64 @@
+" Base16 Eighties vimperator theme
+" ZidHuss
+
+hi clear
+
+hi Bell               border: none; background-color: #948e48;
+hi Boolean            color: #66cccc;
+hi CmdLine            background: #201602; color: #948e48; transition: all 0.15s;
+hi CompDesc           width: 500px; max-width: 500px; color: #75a738;
+hi CompItem[selected] background: #6c6823;
+hi CompMsg            font-style: italic; margin-left: 16px;
+hi CompTitle          font-weight: bold;
+hi CompTitle>*        color: #e8e6df; padding: 1px 0.5ex; border-bottom: 1px solid #948e48;
+hi ContentSeparator   display: -moz-box;
+hi Disabled           color: #f2777a;
+hi Enabled            color: #18974e;
+hi ErrorMsg           color: #e8e6df; background: #f2777a; font-weight: bold;
+hi Filter             color: #e8e6df; background: #cc99cc;
+hi FrameIndicator     background-color: #f2777a; opacity: 0.5; z-index: 999; position: fixed; top: 0; bottom: 0; left: 0; right: 0;
+hi Function           color: #6699cc;
+hi Help               color: #948e48; background: #201602;
+hi HelpArg            color: #6699cc;
+hi HelpBorder         border-color: #948e48; border-width: 0px; border-style: solid;
+hi HelpEx             display: inline-block; color: #6699cc; font-weight: bold;
+hi HelpHead           display: block; margin: 1em 0; padding-bottom: .2ex; border-bottom-width: 1px; font-size: 2em; font-weight: bold; color: #6699cc; clear: both;
+hi HelpInfoLabel      display: inline-block; width: 6em;  color: #cc99cc; font-weight: bold; vertical-align: text-top;
+hi HelpKey            color: #e8e6df;
+hi HelpLink           color: #75a738; text-decoration: none;
+hi HelpNote           color: #f2777a; font-weight: bold;
+hi HelpOpt            color: #18974e;
+hi HelpOptionalArg    color: #6699cc;
+hi HelpSpec           display: block; margin-left: -10em; float: left; clear: left; color: #cc99cc;
+hi HelpString         display: inline-block; color: #18974e; font-weight: normal; vertical-align: text-top;
+hi HelpSubhead        display: block; margin: 1em 0; padding-bottom: .2ex; border-bottom-width: 1px; font-size: 1.2em; font-weight: bold; color: #6699cc; clear: both;
+hi HelpSubsubhead     display: block; margin: 1em 0; padding-bottom: .2ex; font-size: 1.1em; font-weight: bold; color: #6699cc; clear: both;
+hi HelpTag            display: inline-block; color: #515151; margin-left: 1ex; font-size: 0.65em; font-weight: bold;
+hi HelpTopic          color: #e8e6df;
+hi HelpWarning        color: #f2777a; font-weight: bold;
+hi Hint               font-size: 12px; min-width: 2em; text-align: center; text-transform: uppercase; color: #e8e6df; background-color: #f2777a; box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.26); opacity: 0.9; z-index: 9999;
+hi Hint::after        content: attr(number);
+hi HintActive         color: #e8e6df; text-shadow: none; background-color: #cc99cc; box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.26);
+hi HintElem           color: #e8e6df; text-shadow: none; background-color: #6699cc;
+hi Indicator          color: #6699cc;
+hi InfoMsg            color: #cc99cc; background: #201602;
+hi Keyword            color: #f2777a;
+hi LineNr             color: #f99157; background: #201602;
+hi Mapping            color: #cc99cc;
+hi ModeMsg            color: #e8e6df; background: #18974e; border-radius:2px; padding: 0px 5px;
+hi MoreMsg            color: #18974e; background: #201602;
+hi NonText            color: #6699cc; min-height: 16px; padding-left: 2px;
+hi Normal             color: #948e48; background: #201602; font-size: 16px; opacity: 0.9;
+hi Null               color: #f99157;
+hi Number             color: #75a738;
+hi Object             color: #948e48;
+hi Preview            color: #948e48;
+hi Preview            color: #948e48;
+hi PromptText         color: #e8e6df; background: #d27b53;
+hi Question           color: #18974e; background: #201602; font-weight: bold;
+hi StatusLine         color: #948e48; background: #201602; font-weight: normal;
+hi String             color: #75a738;
+hi Tag                color: #6699cc;
+hi Title              color: #cc99cc; background: #201602; font-weight: bold;
+hi URL                text-decoration: none; color: #18974e;
+hi WarningMsg         color: #f2777a; background: #201602;
