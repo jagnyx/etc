@@ -1,0 +1,125 @@
+sw_volume: 100
+audio_device_state:1:My ALSA Device
+audio_device_state:1:Visualizer feed
+state: pause
+current: 100
+time: 239.885000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Augustana/All the Stars and Boulevards/01 Mayfield.mp3
+1:Augustana/All the Stars and Boulevards/02 Bullets.mp3
+2:Augustana/All the Stars and Boulevards/03 Hotel Roosevelt.mp3
+3:Augustana/All the Stars and Boulevards/04 Boston.mp3
+4:Augustana/All the Stars and Boulevards/05 Stars and Boulevards.mp3
+5:Augustana/All the Stars and Boulevards/06 Feel Fine.mp3
+6:Augustana/All the Stars and Boulevards/07 Wasteland.mp3
+7:Augustana/All the Stars and Boulevards/08 Lonely People.mp3
+8:Augustana/All the Stars and Boulevards/09 Sunday Best.mp3
+9:Augustana/All the Stars and Boulevards/10 California's Burning.mp3
+10:Augustana/All the Stars and Boulevards/11 Coffee and Cigarettes.mp3
+11:Augustana/Augustana/01 Steal Your Heart.mp3
+12:Augustana/Augustana/02 Wrong Side of Love.mp3
+13:Augustana/Augustana/03 On the Other Side.mp3
+14:Augustana/Augustana/04 Counting Stars.mp3
+15:Augustana/Augustana/05 Borrowed Time.mp3
+16:Augustana/Augustana/06 Shot in the Dark.mp3
+17:Augustana/Augustana/07 Someone's Baby Now.mp3
+18:Augustana/Augustana/08 Hurricane.mp3
+19:Augustana/Augustana/09 Just Stay Here Tonight.mp3
+20:Augustana/Augustana/10 You Were Made for Me.mp3
+21:Augustana/Can't Love, Can't Hurt/01 Hey Now.mp3
+22:Augustana/Can't Love, Can't Hurt/02 I Still Ain't Over You.mp3
+23:Augustana/Can't Love, Can't Hurt/03 Sweet and Low.mp3
+24:Augustana/Can't Love, Can't Hurt/04 Twenty Years.mp3
+25:Augustana/Can't Love, Can't Hurt/05 Meet You There.mp3
+26:Augustana/Can't Love, Can't Hurt/06 Fire.mp3
+27:Augustana/Can't Love, Can't Hurt/07 Either Way, I'll Break Your Heart Someday.mp3
+28:Augustana/Can't Love, Can't Hurt/08 Dust.mp3
+29:Augustana/Can't Love, Can't Hurt/09 Rest, Shame, Love.mp3
+30:Augustana/Can't Love, Can't Hurt/10 Where Love Went Wrong.mp3
+31:Augustana/Mayfield/01 Mayfield.mp3
+32:Augustana/Mayfield/02 Feel Fine.mp3
+33:Augustana/Mayfield/03 Brace.mp3
+34:Augustana/Mayfield/04 Saints.mp3
+35:Augustana/Mayfield/05 For Mother.mp3
+36:Augustana/Midwest Skies and Sleepless Mondays/01 More Than a Love Song.mp3
+37:Augustana/Midwest Skies and Sleepless Mondays/02 Lullaby.mp3
+38:Augustana/Midwest Skies and Sleepless Mondays/03 Only One.mp3
+39:Augustana/Midwest Skies and Sleepless Mondays/04 Angels.mp3
+40:Augustana/Midwest Skies and Sleepless Mondays/05 Found My Place.mp3
+41:Augustana/Midwest Skies and Sleepless Mondays/06 Maybe.mp3
+42:Augustana/Midwest Skies and Sleepless Mondays/07 Midwest Skies and Sleepless Mondays.mp3
+43:Augustana/Midwest Skies and Sleepless Mondays/08 Boston.mp3
+44:Augustana/Midwest Skies and Sleepless Mondays/09 Empty Days.mp3
+45:Augustana/Midwest Skies and Sleepless Mondays/10 Not Alone.mp3
+46:Augustana/You'll Disappear/02 Bullets.mp3
+47:Augustana/You'll Disappear/03 Boston.mp3
+48:One Republic/Dreaming Out Loud/OneRepublic - Say (All I Need).mp3
+49:One Republic/Dreaming Out Loud/OneRepublic - Mercy.mp3
+50:One Republic/Dreaming Out Loud/OneRepublic - Stop and Stare.mp3
+51:One Republic/Dreaming Out Loud/OneRepublic - Apologize.mp3
+52:One Republic/Dreaming Out Loud/OneRepublic - Goodbye, Apathy.mp3
+53:One Republic/Dreaming Out Loud/OneRepublic - All Fall Down.mp3
+54:One Republic/Dreaming Out Loud/OneRepublic - Tyrant.mp3
+55:One Republic/Dreaming Out Loud/OneRepublic - Prodigal.mp3
+56:One Republic/Dreaming Out Loud/OneRepublic - Won't Stop.mp3
+57:One Republic/Dreaming Out Loud/OneRepublic - All We Are.mp3
+58:One Republic/Dreaming Out Loud/OneRepublic - Come Home.mp3
+59:One Republic/Dreaming Out Loud/OneRepublic - Apologize (Timbaland remix).mp3
+60:One Republic/One Republic - Waking Up 2009 (320kbps)/OneRepublic - Secrets.mp3
+61:One Republic/One Republic - Waking Up 2009 (320kbps)/OneRepublic - Good Life.mp3
+62:One Republic/One Republic - Waking Up 2009 (320kbps)/OneRepublic - Fear.mp3
+63:One Republic/One Republic - Waking Up 2009 (320kbps)/OneRepublic - Waking Up.mp3
+64:One Republic/One Republic - Waking Up 2009 (320kbps)/OneRepublic - Marchin On.mp3
+65:Limp Bizkit/Results May Vary/01 Re-Entry.mp3
+66:Limp Bizkit/Results May Vary/02 Eat You Alive.mp3
+67:Limp Bizkit/Results May Vary/03 Gimme the Mic.mp3
+68:Limp Bizkit/Results May Vary/04 Underneath the Gun.mp3
+69:Limp Bizkit/Results May Vary/05 Down Another Day.mp3
+70:Limp Bizkit/Results May Vary/06 Almost Over.mp3
+71:Limp Bizkit/Results May Vary/07 Build a Bridge.mp3
+72:Limp Bizkit/Results May Vary/08 Red Light-Green Light.mp3
+73:Limp Bizkit/Results May Vary/09 The Only One.mp3
+74:Limp Bizkit/Results May Vary/10 Let Me Down.mp3
+75:Limp Bizkit/Results May Vary/11 Lonely World.mp3
+76:Limp Bizkit/Results May Vary/12 Phenomenon.mp3
+77:Limp Bizkit/Results May Vary/13 Creamer (Radio Is Dead).mp3
+78:Limp Bizkit/Results May Vary/14 Head for the Barricade.mp3
+79:Limp Bizkit/Results May Vary/15 Behind Blue Eyes.mp3
+80:Limp Bizkit/Results May Vary/16 Drown.mp3
+81:Passenger - Whispers II/01. Fear of Fear.mp3
+82:Passenger - Whispers II/02. Catch in the Dark.mp3
+83:Passenger - Whispers II/03. A Thousand Matches.mp3
+84:Passenger - Whispers II/04. I'll Be Your Man.mp3
+85:Passenger - Whispers II/05. Travelling Alone.mp3
+86:Passenger - Whispers II/06. David.mp3
+87:Passenger - Whispers II/07. Words.mp3
+88:Passenger - Whispers II/08. The Way That I Need You.mp3
+89:Passenger - Whispers II/09. Strangers.mp3
+90:Passenger - Whispers II/10. Nothing's Changed.mp3
+91:Passenger - Whispers II/11. Two Hands (Acoustic).mp3
+92:Passenger - Whispers II/12. Stolen Toys (Acoustic).mp3
+93:Passenger - Whispers II/13. The Way It Goes (Acoustic).mp3
+94:Passenger - Whispers II/14. Settled (Acoustic).mp3
+95:Passenger - Whispers II/15. Timber and Coal (Acoustic).mp3
+96:Passenger - Whispers II/16. Darkest Days (Acoustic).mp3
+97:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan - Phir Se Ud Chala - www.Songs.PK.mp3
+98:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan - Jo Bhi Main - www.Songs.PK.mp3
+99:Rockstar-2011-320Kbps(Songs.PK)/Harshdeep Kaur, Additional Vocals- Sapna Awasthi - Katiya Karun - www.Songs.PK.mp3
+100:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan, Karthik - Sheher Mein - www.Songs.PK.mp3
+101:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan, Additional Vocals- Vivane Chaix, Tanvi Shah, Suvi Suresh, Shalini, Clinton Cerejo - Hawaa Hawaa - www.Songs.PK.mp3
+102:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan, Alma Ferovic - Aur Ho - www.Songs.PK.mp3
+103:Rockstar-2011-320Kbps(Songs.PK)/Instrumental - Tango For Taj - www.Songs.PK.mp3
+104:Rockstar-2011-320Kbps(Songs.PK)/feat. Balesh On Shehnaj & Kabuli On Guitars - The Dichtomy Of Fame - www.Songs.PK.mp3
+105:Rockstar-2011-320Kbps(Songs.PK)/A.R Rahman, Mohit Chauhan - Nadaan Parinde - www.Songs.PK.mp3
+106:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan, Suzanne D'Mello - Tum Ho - www.Songs.PK.mp3
+107:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan, feat. Orianthi, Clinton Cerejo - Saada Haq - www.Songs.PK.mp3
+108:Rockstar-2011-320Kbps(Songs.PK)/Ranbir Kapoor - Meeting Place - www.Songs.PK.mp3
+109:Rockstar-2011-320Kbps(Songs.PK)/Kavita Subamaniam - Tum Ko.mp3
+playlist_end
