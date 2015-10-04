@@ -9,7 +9,7 @@ floating_modifier $mod
 
 # start a terminal
 # bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec xfce4-terminal
 
 # kill focused window
 bindsym $mod+Shift+Q kill
@@ -181,18 +181,19 @@ bar {
         #status_command i3status
         strip_workspace_numbers yes
         workspace_buttons yes
+        font pango: Ubuntu Mono derivative Powerline, FontAwesome, Ionicons, 10
         position top
         #status_command  ~/.i3/cmus.sh #new status command
         #status_command i3status --config ~/.i3/i3status.conf
         status_command i3blocks
-        font pango:Ubuntu Mono derivative Powerline, FontAwesome, Ionicons, 10
+   
 colors {
             background $back
             statusline $text
-		                     # colors           border    background  text
-            focused_workspace  $yellow          $yellow     $back
-            inactive_workspace $back            $back       $text
-            active_workspace   $back            $back       $text
+		                     # colors           border    background   
+            focused_workspace  $back            $back       #948e48     
+            inactive_workspace $back            $back       $6c6823
+            active_workspace   $back            $back       $6c6823
             urgent_workspace   #990000          #990000     #ffffff
 		   
         }
@@ -276,7 +277,7 @@ mode "$mode_gaps_outer" {
 
 new_window pixel 2
 
-for_window [class="^.*"] border pixel 4
+for_window [class="^.*"] border pixel 2
 
 
 hide_edge_borders none

@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 96
 audio_device_state:1:My ALSA Device
 audio_device_state:1:Visualizer feed
-state: pause
-current: 100
-time: 239.885000
+state: play
+current: 5
+time: 120.010000
 random: 0
 repeat: 1
 single: 0
@@ -122,4 +122,158 @@ playlist_begin
 107:Rockstar-2011-320Kbps(Songs.PK)/Mohit Chauhan, feat. Orianthi, Clinton Cerejo - Saada Haq - www.Songs.PK.mp3
 108:Rockstar-2011-320Kbps(Songs.PK)/Ranbir Kapoor - Meeting Place - www.Songs.PK.mp3
 109:Rockstar-2011-320Kbps(Songs.PK)/Kavita Subamaniam - Tum Ko.mp3
+110:Augustana/You'll Disappear/03 Boston.mp3
+111:Instrumental-Music/I-Origins-SoundTrack.mp3
+112:Lifehouse/Almería/01 Gotta Be Tonight.mp3
+113:Lifehouse/Almería/02 Between the Raindrops.mp3
+114:Lifehouse/Almería/03 Nobody Listen.mp3
+115:Lifehouse/Almería/04 Moveonday.mp3
+116:Lifehouse/Almería/05 Slow Motion.mp3
+117:Lifehouse/Almería/06 Only You're the One.mp3
+118:Lifehouse/Almería/07 Where I Come From.mp3
+119:Lifehouse/Almería/08 Right Back Home.mp3
+120:Lifehouse/Almería/09 Barricade.mp3
+121:Lifehouse/Almería/10 Aftermath.mp3
+122:Lifehouse/Almería/11 Lady Day.mp3
+123:Lifehouse/Almería/12 Pins & Needles.mp3
+124:Lifehouse/Almería/13 Rolling Off the Stone.mp3
+125:Lifehouse/Almería/14 Always Somewhere Close.mp3
+126:Lifehouse/Lifehouse/01 Come Back Down.mp3
+127:Lifehouse/Lifehouse/02 You and Me.mp3
+128:Lifehouse/Lifehouse/03 Blind.mp3
+129:Lifehouse/Lifehouse/04 All in All.mp3
+130:Lifehouse/Lifehouse/05 Better Luck Next Time.mp3
+131:Lifehouse/Lifehouse/06 Days Go By.mp3
+132:Lifehouse/Lifehouse/07 Into the Sun.mp3
+133:Lifehouse/Lifehouse/08 Undone.mp3
+134:Lifehouse/Lifehouse/09 We'll Never Know.mp3
+135:Lifehouse/Lifehouse/10 Walking Away.mp3
+136:Lifehouse/Lifehouse/11 Chapter One.mp3
+137:Lifehouse/Lifehouse/12 The End Has Only Begun.mp3
+138:Lifehouse/No Name Face/01 Hanging by a Moment.mp3
+139:Lifehouse/No Name Face/02 Sick Cycle Carousel.mp3
+140:Lifehouse/No Name Face/03 Unknown.mp3
+141:Lifehouse/No Name Face/04 Somebody Else's Song.mp3
+142:Lifehouse/No Name Face/05 Trying.mp3
+143:Lifehouse/No Name Face/06 Only One.mp3
+144:Lifehouse/No Name Face/07 Simon.mp3
+145:Lifehouse/No Name Face/08 Cling and Clatter.mp3
+146:Lifehouse/No Name Face/09 Breathing.mp3
+147:Lifehouse/No Name Face/10 Quasimodo.mp3
+148:Lifehouse/No Name Face/11 Somewhere in Between.mp3
+149:Lifehouse/No Name Face/12 Everything.mp3
+150:Lifehouse/Stanley Climbfall/01 Spin.mp3
+151:Lifehouse/Stanley Climbfall/02 Wash.mp3
+152:Lifehouse/Stanley Climbfall/03 Sky Is Falling.mp3
+153:Lifehouse/Stanley Climbfall/04 Anchor.mp3
+154:Lifehouse/Stanley Climbfall/05 Am I Ever Gonna Find Out.mp3
+155:Lifehouse/Stanley Climbfall/06 Stanley Climbfall.mp3
+156:Lifehouse/Stanley Climbfall/07 Out of Breath.mp3
+157:Lifehouse/Stanley Climbfall/08 Just Another Name.mp3
+158:Lifehouse/Stanley Climbfall/09 Take Me Away.mp3
+159:Lifehouse/Stanley Climbfall/10 My Precious.mp3
+160:Lifehouse/Stanley Climbfall/11 Empty Space.mp3
+161:Lifehouse/Stanley Climbfall/12 The Beginning.mp3
+162:Lifehouse/Who We Are/01 Disarray.mp3
+163:Lifehouse/Who We Are/02 First Time.mp3
+164:Lifehouse/Who We Are/03 Whatever It Takes.mp3
+165:Lifehouse/Who We Are/04 Who We Are.mp3
+166:Lifehouse/Who We Are/05 Broken.mp3
+167:Lifehouse/Who We Are/06 The Joke.mp3
+168:Lifehouse/Who We Are/07 Easier to Be.mp3
+169:Lifehouse/Who We Are/08 Make Me Over.mp3
+170:Lifehouse/Who We Are/09 Mesmerized.mp3
+171:Lifehouse/Who We Are/10 Bridges.mp3
+172:Lifehouse/Who We Are/11 Learn You Inside Out.mp3
+173:Lifehouse/Who We Are/12 Storm.mp3
+174:Nirvana/Bleach/01 Blew.mp3
+175:Nirvana/Bleach/02 Floyd the Barber.mp3
+176:Nirvana/Bleach/03 About a Girl.mp3
+177:Nirvana/Bleach/04 School.mp3
+178:Nirvana/Bleach/05 Love Buzz.mp3
+179:Nirvana/Bleach/06 Paper Cuts.mp3
+180:Nirvana/Bleach/07 Negative Creep.mp3
+181:Nirvana/Bleach/08 Scoff.mp3
+182:Nirvana/Bleach/09 Swap Meet.mp3
+183:Nirvana/Bleach/10 Mr. Moustache.mp3
+184:Nirvana/Bleach/11 Sifting.mp3
+185:Nirvana/Bleach/12 Big Cheese.mp3
+186:Nirvana/Bleach/13 Downer.mp3
+187:Nirvana/Hormoaning/01 Turnaround.mp3
+188:Nirvana/Hormoaning/02 Aneurysm.mp3
+189:Nirvana/Hormoaning/03 D-7.mp3
+190:Nirvana/Hormoaning/04 Son of a Gun.mp3
+191:Nirvana/Hormoaning/05 Even in His Youth.mp3
+192:Nirvana/Hormoaning/06 Molly's Lips.mp3
+193:Nirvana/In Utero/01 Serve the Servants.mp3
+194:Nirvana/In Utero/02 Scentless Apprentice.mp3
+195:Nirvana/In Utero/03 Heart-Shaped Box.mp3
+196:Nirvana/In Utero/04 Rape Me.mp3
+197:Nirvana/In Utero/05 Frances Farmer Will Have Her Revenge on Seattle.mp3
+198:Nirvana/In Utero/06 Dumb.mp3
+199:Nirvana/In Utero/07 Very Ape.mp3
+200:Nirvana/In Utero/08 Milk It.mp3
+201:Nirvana/In Utero/09 Pennyroyal Tea.mp3
+202:Nirvana/In Utero/10 Radio Friendly Unit Shifter.mp3
+203:Nirvana/In Utero/11 tourette’s.mp3
+204:Nirvana/In Utero/12 All Apologies.mp3
+205:Nirvana/In Utero/13 Gallons of Rubbing Alcohol Flow Through the Strip.mp3
+206:Nirvana/Incesticide/01 Dive.mp3
+207:Nirvana/Incesticide/02 Sliver.mp3
+208:Nirvana/Incesticide/03 Stain.mp3
+209:Nirvana/Incesticide/04 Been a Son.mp3
+210:Nirvana/Incesticide/05 Turnaround.mp3
+211:Nirvana/Incesticide/06 Molly’s Lips.mp3
+212:Nirvana/Incesticide/07 Son of a Gun.mp3
+213:Nirvana/Incesticide/08 (New Wave) Polly.mp3
+214:Nirvana/Incesticide/09 Beeswax.mp3
+215:Nirvana/Incesticide/10 Downer.mp3
+216:Nirvana/Incesticide/11 Mexican Seafood.mp3
+217:Nirvana/Incesticide/12 Hairspray Queen.mp3
+218:Nirvana/Incesticide/13 Aero Zeppelin.mp3
+219:Nirvana/Incesticide/14 Big Long Now.mp3
+220:Nirvana/Incesticide/15 Aneurysm.mp3
+221:Nirvana/MTV Unplugged in New York/01 About a Girl.mp3
+222:Nirvana/MTV Unplugged in New York/02 Come as You Are.mp3
+223:Nirvana/MTV Unplugged in New York/03 Jesus Doesn’t Want Me for a Sunbeam.mp3
+224:Nirvana/MTV Unplugged in New York/05 Pennyroyal Tea.mp3
+225:Nirvana/MTV Unplugged in New York/06 Dumb.mp3
+226:Nirvana/MTV Unplugged in New York/07 Polly.mp3
+227:Nirvana/MTV Unplugged in New York/09 Something in the Way.mp3
+228:Nirvana/MTV Unplugged in New York/12 Lake of Fire.mp3
+229:Nirvana/MTV Unplugged in New York/14 Where Did You Sleep Last Night_.mp3
+230:Nirvana/Nevermind/12 Something in the Way.mp3
+231:Nirvana/Nevermind/01 Smells Like Teen Spirit.mp3
+232:Nirvana/Nevermind/02 In Bloom.mp3
+233:Nirvana/Nevermind/03 Come as You Are.mp3
+234:Nirvana/Nevermind/04 Breed.mp3
+235:Nirvana/Nevermind/05 Lithium.mp3
+236:Nirvana/Nevermind/06 Polly.mp3
+237:Nirvana/Nevermind/07 Territorial Pissings.mp3
+238:Nirvana/Nevermind/08 Drain You.mp3
+239:Nirvana/Nevermind/09 Lounge Act.mp3
+240:Nirvana/Nevermind/10 Stay Away.mp3
+241:Nirvana/Nevermind/11 On a Plain.mp3
+242:Nirvana/Nevermind/13 Endless, Nameless.mp3
+243:Nirvana/The Very Best/01 01 Smells Like Teen Spirit.flac
+244:Nirvana/The Very Best/02 02 Come As You Are.flac
+245:Nirvana/The Very Best/03 03 Oh, The Guilt.flac
+246:Nirvana/The Very Best/04 04 Dive.flac
+247:Nirvana/The Very Best/05 05 Aero Zeppelin.flac
+248:Nirvana/The Very Best/06 06 Heart-Shaped Box.flac
+249:Nirvana/The Very Best/07 07 Puss.flac
+250:Nirvana/The Very Best/08 08 In Bloom.flac
+251:Nirvana/The Very Best/09 09 Sliver.flac
+252:Nirvana/The Very Best/10 10 Frances Farmer Will Have Her Revenge On Seattle.flac
+253:Nirvana/The Very Best/11 11 Drain You.flac
+254:Nirvana/The Very Best/12 12 Lithium.flac
+255:Nirvana/The Very Best/13 13 All Apologies.flac
+256:Nirvana/The Very Best/14 14 Big Long Now.flac
+257:Nirvana/The Very Best/15 15 Stay Away.flac
+258:Nirvana/The Very Best/16 16 Aneurysm.flac
+259:Nirvana/The Very Best/17 17 Rape Me.flac
+260:Nirvana/The Very Best/18 18 School (Live).flac
+261:Nirvana/The Very Best/19 19 Floyd The Barber (Live).flac
+262:Nirvana/The Very Best/20 20 About A Girl (Live).flac
+263:Nirvana/The Very Best/21 21 Breed.flac
 playlist_end

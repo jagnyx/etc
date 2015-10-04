@@ -28,9 +28,10 @@ URxvt.font: xft:Ubuntu Mono derivative Powerline:size=10:antialias=true
 !URxvt.font: xft:Terminess Powerline:pixelsize=12
 !URxvt.font: xft:PragmataPro:size=10
 !URxvt.font: xft:Boxxy:pixelsize=12
-URxvt.boldFont:
-URxvt*letterSpace: -1
-URxvt*lineSpace: -2
+!URxvt.font: xft:tewi:size=8
+URxvt.boldFont: xft:Ubuntu Mono derivative Powerline:size=10:antilias=true
+URxvt.letterSpace: -1
+!URxvt*lineSpace: -2
 
 
 Xcursor.size: 16
